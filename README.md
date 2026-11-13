@@ -23,3 +23,12 @@ npm.cmd run dev
 ```
 
 開発サーバーが起動したら、ブラウザのアドレス欄で `http://localhost:3000` を開きます。
+
+## 公開サイト
+
+[自己紹介サイトを開く](https://profile-site-pearl-ten.vercel.app/)
+
+## 動作確認
+
+- iPhoneで表示し、文章やカードに表示崩れがないことを確認しました。
+- PageSpeed Insightsのモバイルパフォーマンスは99点でした（2026年11月13日計測）。

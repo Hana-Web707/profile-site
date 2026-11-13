@@ -9,7 +9,7 @@ export default function Home() {
     架空の美容室「hair salon LUXE」のWebサイトを制作し、公開しました。
   </p>
 </section>
-      <section className="mx-6 mt-8 rounded-xl border border-gray-300 p-5">
+      <section className="mx-6 mt-12 rounded-xl border border-gray-300 p-5">
   <h2 className="text-xl font-bold">スキル</h2>
   <p className="mt-2">
     Next.jsとTailwind CSSを学びながら、ページの見出しや余白、文字サイズを調整しています。
@@ -17,7 +17,7 @@ export default function Home() {
 </section>
 <a
   href="https://hair-salon-luxe.netlify.app/"
-  className="mt-3 inline-block text-blue-700 underline dark:text-blue-300"
+  className="mx-auto mt-8 block w-fit text-lg font-semibold text-blue-700 underline dark:text-blue-300"
 >
   hair salon LUXEを見る
 </a>

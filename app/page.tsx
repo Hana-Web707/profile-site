@@ -15,6 +15,12 @@ export default function Home() {
     Next.jsとTailwind CSSを学びながら、ページの見出しや余白、文字サイズを調整しています。
   </p>
 </section>
+<a
+  href="https://hair-salon-luxe.netlify.app/"
+  className="mt-3 inline-block text-blue-700 underline dark:text-blue-300"
+>
+  hair salon LUXEを見る
+</a>
     </main>
   );
 }
